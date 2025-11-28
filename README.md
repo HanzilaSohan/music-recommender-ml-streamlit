@@ -1,10 +1,10 @@
-##🎵 Music Recommendation System (Lyrics + Spotify API)
+## 🎵 Music Recommendation System (Lyrics + Spotify API)
 
 A machine-learning powered music recommendation system using TF-IDF vectorization, cosine similarity, and Spotify album data.
 
 ### 🔗 Live Demo: [Try it on Hugging Face](https://huggingface.co/spaces/Shohan10/music-recommender-ml-model)
 
-#🚀 Features
+## 🚀 Features:
 
 Recommend similar songs based on lyrics
 
@@ -14,7 +14,7 @@ Streamlit web interface
 
 Deployed on Hugging Face Spaces
 
-#🧠 Machine Learning
+## 🧠 Machine Learning:
 
 TF-IDF Vectorizer
 
@@ -24,7 +24,7 @@ Pre-trained similarity matrix
 
 Preprocessed dataset of 5k+ songs
 
-#🛠 Tech Stack
+## 🛠 Tech Stack:
 
 Python
 
@@ -38,6 +38,6 @@ Spotipy
 
 Streamlit
 
-🏗 Run Locally
+## 🏗 Run Locally:
 pip install -r requirements.txt
 streamlit run app.py
